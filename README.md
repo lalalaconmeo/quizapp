@@ -1,2 +1,0 @@
-# quizapp
-quizapp using llm
